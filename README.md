@@ -6,7 +6,6 @@
 💻 **Backend Development Enthusiast** | Java • Spring Boot • Database Design  
 🚀 Passionate about building scalable, production-level applications
 
----
 
 ##  About Me
 
@@ -14,7 +13,6 @@ I'm a Computer Science student with a strong passion for **backend development**
 
 **Currently seeking:** Backend Development Internship to contribute to production-level projects and learn industry best practices.
 
----
 
 ## 🛠 Tech Stack
 
@@ -42,8 +40,6 @@ Relational Database Design • Query Optimization • Data Handling
 ### 🌐 **Web (Basics)**
 HTML • CSS • JavaScript • WordPress
 
----
-
 ## 📂 Featured Projects
 
 ### 🎓 **Student Management System**
@@ -60,7 +56,6 @@ A production-inspired backend system for managing academic records efficiently.
 
 📍 **Repository:** [github.com/yeeshu12](https://github.com/yeeshu12)
 
----
 
 ### 🌐 **Responsive Multi-Page Website**
 **HTML | CSS | JavaScript**
@@ -75,7 +70,6 @@ A modern, responsive website with reusable components and optimized user experie
 
 📍 **Repository:** [github.com/yeeshu12](https://github.com/yeeshu12)
 
----
 
 ## 🎓 Education
 
@@ -94,7 +88,6 @@ A modern, responsive website with reusable components and optimized user experie
 
 **Skills Developed:** Problem-solving • Analytical Thinking • Teamwork • Technical Foundation
 
----
 
 ## 🚀 Core Competencies
 
@@ -107,7 +100,6 @@ A modern, responsive website with reusable components and optimized user experie
 | **Version Control** | Git, GitHub, Branching Strategies |
 | **Web Basics** | HTML5, CSS3, JavaScript, WordPress |
 
----
 
 ## 🎯 Learning Goals & Roadmap
 
@@ -117,7 +109,6 @@ A modern, responsive website with reusable components and optimized user experie
 - 🌍 **Contribute** to real production projects
 - 📚 **Learn** industry best practices and coding standards
 
----
 
 ## 📊 What I'm Looking For
 
@@ -132,7 +123,6 @@ A **backend development internship** where I can:
 
 **I'm ready to grow, learn, and make an impact!** 🚀
 
----
 
 ## 💡 Philosophy
 
@@ -152,5 +142,3 @@ I focus on:
 💼 **Looking for backend development opportunities!**  
 
 Feel free to reach out to discuss backend development, internship opportunities, or any interesting projects! 🌟
-
--
