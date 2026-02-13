@@ -1,46 +1,33 @@
-# Hey, I'm Yeeshu
+# 🌟 Welcome to My Portfolio
 
-CS student at Turiba University learning backend development. I build systems with Java and Spring Boot, and I care about writing code that actually makes sense.
+## 👤 About Me
+I'm [Your Name], a passionate developer with experience in various technologies. My goal is to build impactful software applications.
 
-Started learning programming a few months ago and realized I like thinking about how things work behind the scenes - databases, APIs, that kind of stuff. Not interested in knowing everything, just want to get really good at backend development.
+## 🏅 Badges
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)
+![Twitter](https://img.shields.io/badge/Twitter-Profile-lightblue)
 
-## What I'm working with
+## 💼 Projects
+### Project Name 1
+- **Description:** Brief description of the project.
+- **Tech:** Technology used
+- **Progress:** ![Progress](https://progress-bar.dev/70)
 
-- **Languages:** Java, C#, SQL, Python (basic), JavaScript (basic)
-- **Backend:** Spring Boot, REST APIs, CRUD systems
-- **Database:** MySQL, SQL queries, designing schemas
-- **Tools:** Git, GitHub, Linux, VS Code
+### Project Name 2
+- **Description:** Brief description of the project.
+- **Tech:** Technology used
+- **Progress:** ![Progress](https://progress-bar.dev/50)
 
-## Projects
+## 📊 Metrics & Achievements
+- 💻 100+ projects completed
+- ⭐ 500+ GitHub stars
+- 🌍 Engaged in 10+ open-source contributions
 
-### Student Management System
-Built a backend system for managing student records. Nothing fancy, but it taught me a lot about how real applications are structured.
+## 🚀 Value Proposition
+I aim to deliver high-quality and efficient solutions while continuously learning and adapting to new technologies.
 
-- REST APIs that actually handle CRUD operations properly
-- MySQL database with relationships that make sense
-- Controller → Service → Repository pattern (layered architecture)
-- Input validation and error handling that feels production-like
-- Code that I can come back to and understand
+## 📞 Get in Touch
+Feel free to reach out to me on [Email](mailto:your-email@example.com) or follow me on [Twitter](https://twitter.com/yourhandle)!
 
-[Check it out](https://github.com/yeeshu12)
-
-### Multi-Page Responsive Website
-A website project I built to understand frontend. Made it responsive, added some JavaScript interactivity. Basic stuff but good practice.
-
-[Check it out](https://github.com/yeeshu12)
-
-## What I'm learning
-
-Right now focused on:
-- Getting better at algorithms and data structures
-- Understanding how systems actually scale
-- Writing cleaner code
-- Making my SQL queries more efficient
-
-## What's next
-
-Looking for a backend development internship. I want to work on real projects, see how professional code looks, and learn from people who actually know what they're doing.
-
----
-
-I think it's more important to understand one thing deeply than to know a little bit about everything. That's how I approach learning.
+## 🎯 Let's Build Something Great Together!
