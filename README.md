@@ -68,10 +68,10 @@ A production-inspired backend system for managing academic records efficiently.
 A modern, responsive website with reusable components and optimized user experience.
 
 **Key Achievements:**
-- ✅ Built **responsive layout** for multiple screen sizes
-- ✅ Implemented **client-side interactivity** using JavaScript
-- ✅ Optimized **UI structure** and navigation flow
-- ✅ Emphasized **maintainable and readable** frontend code
+-  Built **responsive layout** for multiple screen sizes
+-  Implemented **client-side interactivity** using JavaScript
+-  Optimized **UI structure** and navigation flow
+-  Emphasized **maintainable and readable** frontend code
 
 📍 **Repository:** [github.com/yeeshu12](https://github.com/yeeshu12)
 
