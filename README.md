@@ -52,11 +52,11 @@ HTML • CSS • JavaScript • WordPress
 A production-inspired backend system for managing academic records efficiently.
 
 **Key Achievements:**
-- ✅ Implemented RESTful APIs with full **CRUD operations**
-- ✅ Designed **relational database schema** in MySQL with optimized queries
-- ✅ Applied **layered architecture** (Controller → Service → Repository)
-- ✅ Built **input validation & error handling** to simulate production behavior
-- ✅ Focused on clean, modular, and maintainable code structure
+-  Implemented RESTful APIs with full **CRUD operations**
+-  Designed **relational database schema** in MySQL with optimized queries
+-  Applied **layered architecture** (Controller → Service → Repository)
+-  Built **input validation & error handling** to simulate production behavior
+-  Focused on clean, modular, and maintainable code structure
 
 📍 **Repository:** [github.com/yeeshu12](https://github.com/yeeshu12)
 
@@ -124,11 +124,11 @@ A modern, responsive website with reusable components and optimized user experie
 ### 💼 **Ideal Opportunity**
 
 A **backend development internship** where I can:
-- ✅ Work on **production-level applications**
-- ✅ Learn **industry practices** and standards
-- ✅ Collaborate with **experienced developers**
-- ✅ Improve my **software engineering skills**
-- ✅ Contribute meaningful code to real projects
+-  Work on **production-level applications**
+-  Learn **industry practices** and standards
+-  Collaborate with **experienced developers**
+-  Improve my **software engineering skills**
+-  Contribute meaningful code to real projects
 
 **I'm ready to grow, learn, and make an impact!** 🚀
 
@@ -145,7 +145,6 @@ I focus on:
 - **Continuous learning** and improvement
 - Delivering **quality over quantity**
 
----
 
 ## 📬 Let's Connect!
 
@@ -154,6 +153,4 @@ I focus on:
 
 Feel free to reach out to discuss backend development, internship opportunities, or any interesting projects! 🌟
 
----
-
-*Last Updated: 2026-02-13 19:02:21*
+-
