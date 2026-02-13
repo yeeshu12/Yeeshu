@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Portfolio
 
 ## 👤 About Me
-I'm [Your Name], a passionate developer with experience in various technologies. My goal is to build impactful software applications.
+I'm Yeeshu, a passionate developer with experience in various technologies. My goal is to build impactful software applications.
 
 ## 🏅 Badges
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
