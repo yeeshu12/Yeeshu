@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Professional Summary
+##  About Me
 
 I'm a Computer Science student with a strong passion for **backend development** and **data-driven applications**. I specialize in building clean, maintainable code using **Java, Spring Boot, and SQL**. I understand real-world system architecture and believe that **consistent improvement and clean code matter more than knowing many technologies**.
 
@@ -25,7 +25,7 @@ I'm a Computer Science student with a strong passion for **backend development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🚀 **Backend**
+###  **Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 REST APIs • CRUD Operations • Input Validation • Error Handling • Layered Architecture
 
