@@ -1,5 +1,9 @@
-<h1 align="center">&lt;Yeeshu /&gt;</h1>
-<p align="center">Building backend systems one endpoint at a time</p>
+<p align="center">
+$ whoami <br>
+> Yeeshu <br>
+> Computer Science Student <br>
+> Backend Developer (Learning)
+</p>
 
 # 🌟 Yeeshu - Backend Developer
 
