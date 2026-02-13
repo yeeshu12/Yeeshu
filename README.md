@@ -1,9 +1,6 @@
-<p align="center">
-$ whoami <br>
-> Yeeshu <br>
-> Computer Science Student <br>
-> Backend Developer (Learning)
-</p>
+<h1 align="center">YS</h1>
+<h3 align="center">Yeeshu • Software Developer</h3>
+
 
 # 🌟 Yeeshu - Backend Developer
 
