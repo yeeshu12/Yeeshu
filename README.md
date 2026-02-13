@@ -1,9 +1,5 @@
-<h1 align="center">Y E E S H U</h1>
-<h3 align="center">Backend Developer in Progress</h3>
-
-<p align="center">
-  <i>Java • Spring Boot • SQL</i>
-</p>
+<h1 align="center">&lt;Yeeshu /&gt;</h1>
+<p align="center">Building backend systems one endpoint at a time</p>
 
 # 🌟 Yeeshu - Backend Developer
 
