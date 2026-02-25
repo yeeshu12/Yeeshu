@@ -144,5 +144,3 @@ I focus on:
 
 🔗 **GitHub:** [github.com/yeeshu12](https://github.com/yeeshu12)  
 💼 **Looking for backend development opportunities!**  
-
-Feel free to reach out to discuss backend development, internship opportunities, or any interesting projects! 🌟
