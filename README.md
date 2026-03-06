@@ -2,7 +2,7 @@
 <h3 align="center">Yeeshu • Software Developer</h3>
 
 
-# 🌟 Yeeshu - Backend Developer
+# 🌟 Yeeshu - Software Developer
 
 ## 👋 Hi, I'm Yeeshu
 
